@@ -16,4 +16,4 @@ https://discord.gg/Rp4f4KzCZh
 
 # WHERE TO DOWNLOAD?
 
-[Get it here!]([url](https://github.com/blazfxx/boxu-games/releases))
+[Get it here!](https://github.com/blazfxx/boxu-games/releases)
