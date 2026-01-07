@@ -11,8 +11,7 @@ The library will always be growing, implementing new retro games EVERY week!
 
 # WHEE TO GET ANNOUCEMENS?
 
-Join the discord!
-https://discord.gg/Rp4f4KzCZh
+Join the [DISCORD](https://discord.gg/Rp4f4KzCZh)!
 
 # WHERE TO DOWNLOAD?
 
