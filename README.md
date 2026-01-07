@@ -13,3 +13,9 @@ The library will always be growing, implementing new retro games EVERY week!
 
 Join the discord!
 https://discord.gg/Rp4f4KzCZh
+
+# WHERE TO DOWNLOAD?
+
+Get it here!
+
+https://github.com/blazfxx/boxu-games/releases
