@@ -1,4 +1,4 @@
-# boxu-games
+# BOXU GAMES
 Download BOXU GAMES!
 
 
