@@ -9,7 +9,7 @@ It is a *vibcecoded* app that lets you "doomscrool" through a category of apps!
 The library will always be growing, implementing new retro games EVERY week!
 
 
-# WHEE TO GET ANNOUCEMENS?
+# WHERE TO GET ANNOUCEMENS?
 
 Join the [DISCORD](https://discord.gg/Rp4f4KzCZh)!
 
